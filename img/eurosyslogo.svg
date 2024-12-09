@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="232 -27 177 38" width="177" height="38">
+  <defs>
+    <font-face font-family="Boriboon" font-size="18" units-per-em="1000" underline-position="-157" underline-thickness="21" slope="0" x-height="526" cap-height="737" ascent="1367.9962" descent="-736.9995" font-weight="700">
+      <font-face-src>
+        <font-face-name name="Boriboon-Bold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.18.5\n2023-05-06 16:53:55 +0000</metadata>
+  <g id="Canvas_4" stroke-dasharray="none" fill="none" fill-opacity="1" stroke="none" stroke-opacity="1">
+    <title>Canvas 4</title>
+    <g id="Canvas_4_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <text transform="translate(237 -27)" fill="#ad1313">
+          <tspan font-family="Boriboon" font-size="18" font-weight="700" fill="#ad1313" x="10.051" y="25">&lt;</tspan>
+          <tspan font-family="Boriboon" font-size="18" font-weight="700" fill="white" y="25">EURO</tspan>
+          <tspan font-family="Boriboon" font-size="18" font-weight="700" fill="#ad1313" y="25">/</tspan>
+          <tspan font-family="Boriboon" font-size="18" font-weight="700" fill="white" y="25">SYS’23</tspan>
+          <tspan font-family="Boriboon" font-size="18" font-weight="700" fill="#ad1313" y="25">&gt;</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
